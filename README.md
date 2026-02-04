@@ -1,6 +1,6 @@
 # Портфолио
 
-### Тестовые задания от компаний (HH)
+### Тестовые задания от компаний (HH.ru)
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -20,7 +20,10 @@
 
 ---
 
-### Верстка макетов Figma
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" align="center" />
+  Верстка макетов Figma
+</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -52,10 +55,12 @@
 
 ---
 
-### Pet-проекты · React
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" align="center" />
+  Pet-проекты · React
+</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/React_counter" target="_blank">
       Cчетчик React/TS
@@ -103,15 +108,16 @@
       Приложение с redux store React/Redux/JS
     </a>
   </div>
-
 </div>
 
 ---
 
-### Pet-проекты · Vue
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="22" align="center" />
+  Pet-проекты · Vue
+</h3>
 
-<div>
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/Vue_counter" target="_blank">
       Cчетчик Vue/TS
@@ -147,7 +153,7 @@
       Фильтрация и пагинация Vue/TS
     </a>
   </div>
-  
+
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/VUE_Post_Application" target="_blank">
       Клиентское приложение с внешним API Vue/JS/JSONPlaceholder
@@ -159,28 +165,31 @@
       Приложение с pinia store VUE/Pinia/JS
     </a>
   </div>
-  
 </div>
 
 ---
-### Pet-проекты · Nest
 
-<div>
-  
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="22" align="center" />
+  Pet-проекты · Nest
+</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/nestjs-basic-server" target="_blank">
       Авторизация с использованием JWT токена
     </a>
   </div>
-  
 </div>
 
 ---
 
-### Codewars
+<h3>
+  <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="22" align="center" />
+  Codewars
+</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/codewars-solutions" target="_blank">
       Задачи/Решения
@@ -192,5 +201,4 @@
       Профиль Codewars
     </a>
   </div>
-
 </div>
