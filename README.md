@@ -1,5 +1,25 @@
 # Портфолио
 
+### Тестовые задания от компаний (HH)
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/TEST_NDM" target="_blank">
+      Задача от "НДМ Системы"
+    </a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/resume_creator" target="_blank">
+      Задача от "ООО Мир технологий"
+    </a>
+  </div>
+
+</div>
+
+---
+
 ### Верстка макетов Figma
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -25,26 +45,6 @@
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/Figma_to_VUE" target="_blank">
       Верстка VUE
-    </a>
-  </div>
-
-</div>
-
----
-
-### Тестовые задания от компаний (HH)
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
-    <a href="https://github.com/Shamitsu212/TEST_NDM" target="_blank">
-      Задача от "НДМ Системы"
-    </a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
-    <a href="https://github.com/Shamitsu212/resume_creator" target="_blank">
-      Задача от "ООО Мир технологий"
     </a>
   </div>
 
