@@ -1,6 +1,10 @@
 # Портфолио
 
-### Тестовые задания от компаний (HH.ru)
+
+<h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/800px-HeadHunter_logo.png" width="22" align="center" />
+  Задачи с hh.ru
+</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
