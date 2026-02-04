@@ -1,9 +1,6 @@
 # Портфолио
 
-
-<h3>
-  Задачи с hh.ru
-</h3>
+### Задачи с hh.ru
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -23,10 +20,7 @@
 
 ---
 
-<h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" align="center" />
-  Верстка макетов Figma
-</h3>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" style="vertical-align: middle;" /> Верстка макетов Figma
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -58,10 +52,7 @@
 
 ---
 
-<h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" align="center" />
-  Pet-проекты · React
-</h3>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" style="vertical-align: middle;" /> Pet-проекты · React
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
@@ -115,10 +106,7 @@
 
 ---
 
-<h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="22" align="center" />
-  Pet-проекты · Vue
-</h3>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="22" style="vertical-align: middle;" /> Pet-проекты · Vue
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
@@ -172,10 +160,7 @@
 
 ---
 
-<h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="22" align="center" />
-  Pet-проекты · Nest
-</h3>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="22" style="vertical-align: middle;" /> Pet-проекты · Nest
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
@@ -187,10 +172,7 @@
 
 ---
 
-<h3>
-  <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="22" align="center" />
-  Codewars
-</h3>
+### <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="22" style="vertical-align: middle;" /> Codewars
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
