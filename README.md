@@ -170,7 +170,7 @@
 ---
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="22" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="22" align="center" />
   Pet-проекты · Nest
 </h3>
 
