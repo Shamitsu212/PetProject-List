@@ -163,6 +163,19 @@
 </div>
 
 ---
+### Pet-проекты · Nest
+
+<div>
+  
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/nestjs-basic-server" target="_blank">
+      Авторизация с использованием JWT токена
+    </a>
+  </div>
+  
+</div>
+
+---
 
 ### Codewars
 
