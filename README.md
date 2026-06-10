@@ -178,6 +178,17 @@
 
 ---
 
+### Пример заказов с фриланс биржи
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/freelance_website" target="_blank">
+      Верстка с анимациями React
+    </a>
+  </div>
+
+---
+
 ### <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="22" style="vertical-align: middle;" /> Codewars
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
