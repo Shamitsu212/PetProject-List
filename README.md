@@ -37,7 +37,7 @@
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
-    <a href="https://github.com/Shamitsu212/Adaptive-layout2" target="_blank">
+    <a href="https://github.com/Shamitsu212/Adaptive_layout2" target="_blank">
       Адаптивная верстка HTML #2
     </a>
   </div>
