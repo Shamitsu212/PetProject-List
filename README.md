@@ -108,6 +108,13 @@
       Приложение с redux store React/Redux/JS
     </a>
   </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/REST_API_exercise" target="_blank">
+      Кастомные хуки с реализацией всех методов REST API
+    </a>
+  </div>
+  
 </div>
 
 ---
