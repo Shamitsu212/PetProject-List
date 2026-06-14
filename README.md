@@ -111,7 +111,13 @@
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/REST_API_exercise" target="_blank">
-      Кастомные хуки с реализацией всех методов REST API
+      Кастомные хуки с реализацией всех методов REST API React/TS
+    </a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/React_TodoList" target="_blank">
+      Todo list React/TS
     </a>
   </div>
   
