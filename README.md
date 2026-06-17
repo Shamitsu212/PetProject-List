@@ -116,6 +116,12 @@
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/React_RouterDOM_exercise" target="_blank">
+      Базовая маршрутизация на React Router DOM React/TS
+    </a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/React_TodoList" target="_blank">
       Todo list React/TS
     </a>
