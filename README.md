@@ -9,37 +9,27 @@ My main focus is building modern web applications with **React** and **TypeScrip
 
 # ⭐ Featured Projects
 
-Applications that best represent my current frontend development skills.
+### 📋 Todo List
+React application for managing daily tasks.
 
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
-  <a href="https://github.com/Shamitsu212/React_TodoList" target="_blank">
-    <strong>Todo List</strong>
-  </a>
-  <br><br>
-  <a href="https://shamitsu212.github.io/React_TodoList/" target="_blank">
-    🚀 Live Demo
-  </a>
-</div>
+**Repository:** https://github.com/Shamitsu212/React_TodoList  
+**Live Demo:** https://shamitsu212.github.io/React_TodoList/
 
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
-  <a href="https://github.com/Shamitsu212/React_NodeApp" target="_blank">
-    <strong>Note App</strong>
-  </a>
-  <br><br>
-  <a href="https://shamitsu212.github.io/React_NodeApp/" target="_blank">
-    🚀 Live Demo
-  </a>
-</div>
+---
 
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
-  <a href="https://github.com/Shamitsu212/AnkiCards_React" target="_blank">
-    <strong>Anki Cards</strong>
-  </a>
-  <br><br>
-  <a href="https://shamitsu212.github.io/AnkiCards_React/" target="_blank">
-    🚀 Live Demo
-  </a>
-</div>
+### 📝 Note App
+Simple note-taking application built with React.
+
+**Repository:** https://github.com/Shamitsu212/React_NodeApp  
+**Live Demo:** https://shamitsu212.github.io/React_NodeApp/
+
+---
+
+### 🎴 Anki Cards
+Flashcard application for learning with spaced repetition.
+
+**Repository:** https://github.com/Shamitsu212/AnkiCards_React  
+**Live Demo:** https://shamitsu212.github.io/AnkiCards_React/
 
 ---
 
