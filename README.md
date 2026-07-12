@@ -13,28 +13,31 @@ Applications that best represent my current frontend development skills.
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
   <a href="https://github.com/Shamitsu212/React_TodoList" target="_blank">
-    Todo list 
+    <strong>Todo List</strong>
   </a>
-  <a href="https://shamitsu212.github.io/React_TodoList/" target="_blank" style="margin-left: 10[x">
-    Live Demo
+  <br><br>
+  <a href="https://shamitsu212.github.io/React_TodoList/" target="_blank">
+    🚀 Live Demo
   </a>
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
   <a href="https://github.com/Shamitsu212/React_NodeApp" target="_blank">
-    Note App
+    <strong>Note App</strong>
   </a>
+  <br><br>
   <a href="https://shamitsu212.github.io/React_NodeApp/" target="_blank">
-    Live Demo
+    🚀 Live Demo
   </a>
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
   <a href="https://github.com/Shamitsu212/AnkiCards_React" target="_blank">
-     Anki Cards 
+    <strong>Anki Cards</strong>
   </a>
+  <br><br>
   <a href="https://shamitsu212.github.io/AnkiCards_React/" target="_blank">
-    Live Demo
+    🚀 Live Demo
   </a>
 </div>
 
