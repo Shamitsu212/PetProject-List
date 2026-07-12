@@ -15,7 +15,7 @@ Applications that best represent my current frontend development skills.
   <a href="https://github.com/Shamitsu212/React_TodoList" target="_blank">
     Todo list 
   </a>
-  <a href="https://shamitsu212.github.io/React_TodoList/" target="_blank">
+  <a href="https://shamitsu212.github.io/React_TodoList/" target="_blank" style="margin-left: 10[x">
     Live Demo
   </a>
 </div>
