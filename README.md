@@ -20,8 +20,8 @@ React application for managing daily tasks.
 ### 📝 Note App
 Simple note-taking application built with React.
 
-**Repository:** https://github.com/Shamitsu212/React_NodeApp  
-**Live Demo:** https://shamitsu212.github.io/React_NodeApp/
+**Repository:** https://github.com/Shamitsu212/React_NoteApp  
+**Live Demo:** https://shamitsu212.github.io/React_NoteApp/
 
 ---
 
