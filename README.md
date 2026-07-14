@@ -231,6 +231,14 @@ Small backend projects created to better understand server-side development, aut
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/user_CRUD_API" target="_blank">
+      Simple CRUD
+    </a>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/nestjs-basic-server" target="_blank">
       JWT Authentication API
     </a>
