@@ -107,7 +107,7 @@ Responsive interfaces built from Figma designs using HTML, React and Vue.
 
 Small projects created while learning React and Vue concepts.
 
-# ⚙️ CI/CD
+### ⚙️ CI/CD
 
 Projects demonstrating CI/CD pipelines, deployment automation and development workflows.
 
